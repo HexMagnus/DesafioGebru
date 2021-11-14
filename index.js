@@ -28,3 +28,12 @@
  //let email= prompt ("e o meu email é")
 
  //console.log ("Meu nome é", nome,",tenho", idade, "anos, e o meu email é", email)
+
+ //------------------------------------------------------------------------------------------------------------------------//
+ //let cor1 = prompt ("Digite 1 cor")
+ //let cor2 = prompt ("Digite +1 cor")
+ //let cor3 = prompt ("Digite a última cor")
+
+ //console.log("As cores favoritas são", cor1, cor2, cor3)
+ //------------------------------------------------------------------------------------------------------------------------//
+
